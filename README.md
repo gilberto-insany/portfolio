@@ -2,7 +2,7 @@
 
 Página de inscrição para o quadro de avaliação de portfólios do Gilberto Prado no YouTube. Mantém a identidade da página de talentos da Insany.
 
-Site: https://gilberto-insany.github.io/insany-portfolio-review/
+Site: https://gilberto-insany.github.io/portfolio/
 
 ## Executar localmente
 
